@@ -1,4 +1,4 @@
-
+create database git;
 use git;
 
 create table employees(
